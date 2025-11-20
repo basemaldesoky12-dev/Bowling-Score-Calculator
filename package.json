@@ -1,0 +1,14 @@
+{
+  "name": "bowling-scorer",
+  "version": "1.0.0",
+  "description": "Bowling score calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
